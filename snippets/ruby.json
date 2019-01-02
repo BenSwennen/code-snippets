@@ -1,0 +1,7 @@
+{
+  "Frozen string literal": {
+    "prefix": "fsl",
+    "body": "# frozen_string_literal: true",
+    "description": "Frozen string literal"
+  },
+}
