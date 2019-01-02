@@ -1,2 +1,3 @@
 # code-snippets
-Collection of useful code-snippets for Atom
+
+Collection of useful code-snippets for VSCode
