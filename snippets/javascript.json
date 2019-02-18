@@ -144,4 +144,14 @@
     "body": "import ${1} from \"components/${1}\";",
     "description": "Import component"
   },
+  "Import Translate": {
+    "prefix": "translate",
+    "body": "import Translate from \"utils/\/translate\";\n\nconst { t } = new Translate(\"${1}\");",
+    "description": "Import Translate"
+  },
+  "Import classnames": {
+    "prefix": "cx",
+    "body": "import cx from \"classnames\";",
+    "description": "Import classnames"
+  },
 }
